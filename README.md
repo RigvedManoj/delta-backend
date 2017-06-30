@@ -3,10 +3,10 @@ this is a backend task - a site containing code snippets
 ## server: XAMPP
 ## backend language used: PHP
 ## query language : MySQL
-database:spider
-tables used: signup and notes
+database:delta
+tables used: signup and code
 signup table used to store details of clients
-notes tables used to store class notes.
+code tables used to store code snippets.
 
  ### [mysql](https://dev.mysql.com/downloads/workbench/).
  ### [XAMPP](https://www.apachefriends.org/download.html).
@@ -23,3 +23,12 @@ clicking on titles displays the code.
 ## Before running .php files , first start apache in XAMPP control panel.
 ## Also enter your username and password of MySQL in all the .php files[signup.php,login.php,codes.php,snippet.php,display.php,check.php,2.php,3.php]
  
+ ### LOGIN PAGE:![Alt](1.png "Title")
+ 
+ ![Alt](2.png "Title")
+ 
+ ### main page:![Alt](3.png "Title")
+ 
+ ### display: ![Alt](4.png "Title")
+
+### add code:![Alt](5.png "Title")
